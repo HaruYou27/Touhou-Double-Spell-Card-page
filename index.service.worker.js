@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1738561828|85524803';
+const CACHE_VERSION = '1738846871|82224900';
 /** @type {string} */
 const CACHE_PREFIX = 'Touhou Double Sp-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
